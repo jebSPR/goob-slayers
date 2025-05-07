@@ -20,19 +20,6 @@ html, body {
     -webkit-user-select: none;
     user-select: none;
 }
-.ct-aLoadingScreen {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    background: #446adb;
-    background: #446adb;
-    color: #ffffff;
-    color: #ffffff;
-    z-index: 2;
-    line-height: 1.25;
-}
 .ct-aLoadingProgress {
     position: absolute;
     left: 50%;
